@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 hello chgrp 751 hello
+chmod u+1 g+1 a+1 hello
