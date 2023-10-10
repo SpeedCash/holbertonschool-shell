@@ -1,2 +1,2 @@
 #!/bin/bash
-read input; echo "$input" | tr 'Ac' 'Ze'
+echo $(cat) | tr 'Ac' 'Ze'
